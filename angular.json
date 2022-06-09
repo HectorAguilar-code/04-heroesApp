@@ -27,9 +27,10 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/boostrap/dist/css/boostrap.min.css",
               "src/styles.css"
             ],
-            "scripts": []
+            "scripts": ["node_modules/boostrap/dist/js/boostrap.min.js"]
           },
           "configurations": {
             "production": {
